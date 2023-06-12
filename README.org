@@ -1,0 +1,10 @@
+* hdf5-cffi
+
+Common Lisp bindings for the HDF5 library using CFFI
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/HDFGroup/hdf5-cffi.git   |
+| commit  | 5b5c88f  |
+| systems | hdf5-cffi |
+|---------+-------------------------------------------|
+
